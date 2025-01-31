@@ -55,7 +55,13 @@ A modern, AI-powered resume builder that leverages multiple specialized AI agent
 
 ## 🚀 Running the Application
 
-1. **Run**
+1. **Update resume.md**
+   Update resume.md with your resume content in Markdown format
+
+2. **Update main.py**
+   Update main.py file to replace the job posting url and writeup
+
+3. **Run**
    ```bash
    # From the project root directory
    crewai install
